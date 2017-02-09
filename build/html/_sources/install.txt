@@ -1,4 +1,4 @@
-Install Guide
+安装指导
 =============
 
 .. _before_install:
