@@ -12,8 +12,7 @@ Contents:
    :maxdepth: 2
 
 
-   example
-
+   install
 
 Indices and tables
 ==================
